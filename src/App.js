@@ -55,7 +55,7 @@ function App() {
               </Grid>
               <Grid item>
                 <Button variant="outlined" color="primary">
-                  secondary action
+                  secondary actions
                 </Button>
               </Grid>
             </Grid>
